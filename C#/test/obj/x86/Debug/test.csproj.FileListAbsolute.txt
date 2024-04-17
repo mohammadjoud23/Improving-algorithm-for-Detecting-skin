@@ -1,0 +1,93 @@
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.Form1.resources
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\mohammad dayoub\Desktop\test\test\bin\Debug\test.exe
+C:\Users\mohammad dayoub\Desktop\test\test\bin\Debug\test.pdb
+C:\Users\mohammad dayoub\Desktop\test\test\bin\Debug\OnBarcode.Barcode.WinForms.dll
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.exe
+C:\Users\mohammad dayoub\Desktop\test\test\obj\x86\Debug\test.pdb
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.exe
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.pdb
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\bin\Debug\test.exe
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\bin\Debug\test.pdb
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\bin\Debug\OnBarcode.Barcode.WinForms.dll
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.Form1.resources
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\PROJECTS\project 3\bar code\read bar code with avorge\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.exe
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.pdb
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\bin\Debug\test.exe
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\bin\Debug\test.pdb
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.Form1.resources
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge\test\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\bin\Debug\test.exe
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\MOHAMMAD DAYOUB\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\bin\Debug\test.exe
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\bin\Debug\Bytescout.Spreadsheet.xml
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJECTS\project 3\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\bin\Debug\test.exe
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\bin\Debug\Bytescout.Spreadsheet.xml
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+E:\PROJECTS\project 7\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\bin\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Mohammad_Dayoub\Desktop\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\bin\Debug\test.exe
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\bin\Debug\Bytescout.Spreadsheet.xml
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\PROJECTS\project 9\bar code\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\bin\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\bin\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.ResolveComReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.Form1.resources
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Mohammad_Dayoub\Desktop\read bar code with avorge+ data base\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.csproj.ResolveComReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\bin\Debug\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\bin\Debug\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.Form1.resources
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Debug\test.csproj.GenerateResource.Cache

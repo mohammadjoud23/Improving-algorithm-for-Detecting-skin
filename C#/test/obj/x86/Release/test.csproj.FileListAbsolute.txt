@@ -1,0 +1,40 @@
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\Interop.MLApp.dll
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.csproj.ResolveComReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\bin\Release\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\bin\Release\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.Form1.resources
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\c#\test\obj\x86\Release\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\Interop.MLApp.dll
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.csproj.ResolveComReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\bin\Release\test.exe
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\bin\Release\test.pdb
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.Form1.resources
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Mohammad_Dayoub\Desktop\age from bone\c#\test\obj\x86\Release\test.csproj.GenerateResource.Cache
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\Interop.MLApp.dll
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.csproj.ResolveComReference.cache
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.exe
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.pdb
+E:\PROJECTS\project 9\age from bone\c#\test\bin\Release\test.exe
+E:\PROJECTS\project 9\age from bone\c#\test\bin\Release\test.pdb
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.Form1.resources
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.Properties.Resources.resources
+E:\PROJECTS\project 9\age from bone\c#\test\obj\x86\Release\test.csproj.GenerateResource.Cache
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\Interop.MLApp.dll
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.csproj.ResolveComReference.cache
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.exe
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.pdb
+C:\Users\Naddaf\Desktop\Graduation\C#\test\bin\Release\test.exe
+C:\Users\Naddaf\Desktop\Graduation\C#\test\bin\Release\test.pdb
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.Form1.resources
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Naddaf\Desktop\Graduation\C#\test\obj\x86\Release\test.csproj.GenerateResource.Cache
